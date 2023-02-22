@@ -1,3 +1,3 @@
 ## Deployed Link -
 
-[Deployed Link](https://agrawalrajat310.github.io/)
+- https://agrawalrajat310.github.io/
